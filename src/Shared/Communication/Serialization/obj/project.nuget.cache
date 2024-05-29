@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "elmh99T6d7kh6rjVV5iN5R/Zs9gXsS9NEUL3/SniaPiK3+hp8Ruo/zu5b6UybkXFaT8qBp12O8Cn+JJG5bX7pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Propietario\\Desktop\\distributed-systems\\src\\Shared\\Communication\\Serialization\\Serialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Propietario\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\Propietario\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

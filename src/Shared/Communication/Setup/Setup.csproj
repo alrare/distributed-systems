@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Scrutor" Version="4.2.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Services\Products.Api.Read\Api.Read.csproj" />
+    <ProjectReference Include="..\..\Databases\MongoDB\MongoDB.csproj" />
+    <ProjectReference Include="..\..\Databases\MySql\MySql.csproj" />
+    <ProjectReference Include="..\..\Databases\SqlServer\Mssql.csproj" />
+    <ProjectReference Include="..\..\Databases\MongoDB\MongoDB.csproj" />
+    <ProjectReference Include="..\..\Databases\MySql\MySql.csproj" />
+    <ProjectReference Include="..\..\Databases\SqlServer\Mssql.csproj" />
+    <ProjectReference Include="..\Comunication.RabbitMQ\Comunication.RabbitMQ.csproj" />
+    <ProjectReference Include="..\Comunication\Communication.csproj" />
+    <ProjectReference Include="..\Serialization\Serialization.csproj" />
+  </ItemGroup>
+
+</Project>
